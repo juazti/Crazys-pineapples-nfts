@@ -1,2 +1,2 @@
 # Crazys-pineapples-nfts
-Aqui ire subiendo el proceso como cree esta coleccion 
+Aqui ire subiendo el proceso de como cree esta coleccion
