@@ -1,2 +1,2 @@
 # Crazys-pineapples-nfts
-only remplace files 
+Aqui ire subiendo el proceso como cree esta coleccion 
