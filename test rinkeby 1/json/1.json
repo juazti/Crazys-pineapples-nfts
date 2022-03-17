@@ -1,0 +1,31 @@
+{
+  "name": "Crazy pineapples #1",
+  "description": "testing a crazys pineapples",
+  "image": "https://raw.githubusercontent.com/juazti/Crazys-pineapples-nfts/main/test%20rinkeby%201/images",
+  "dna": "da4d8a2b08e4df328b0e4b887432d6e07c13913a",
+  "edition": 1,
+  "date": 1647474171859,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Sheriff"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
